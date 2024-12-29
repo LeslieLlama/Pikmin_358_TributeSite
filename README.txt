@@ -1,0 +1,1 @@
+This is a Tribute Site for a Specific Blue Pikmin. I made this for an assignment as part of a freecodecamp.org Responsive Web Design Course. 
